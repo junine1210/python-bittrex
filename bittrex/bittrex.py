@@ -1,5 +1,5 @@
 """
-   See https://bittrex.com/Home/Api
+   SSee https://bittrex.com/Home/Api
 """
 
 import time
